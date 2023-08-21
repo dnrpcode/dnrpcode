@@ -12,8 +12,7 @@ Pribumi rada tampan
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnrpcode&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://raw.githubusercontent.com/dnrpcode/dnrpcode/output/snake.svg" alt="Snake animation" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dnrpcode&limit=5&theme=nord&combine_all_yearly_contributions=true)
