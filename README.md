@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with:</h2>
+<h2 align="left">💻 I code with:</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Library:</h2>
+<h2 align="left">📦 Library:</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">Tools:</h2>
+<h2 align="left">🛠️ Tools:</h2>
 
 ###
 
@@ -66,20 +66,52 @@
 
 ###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dnrp_17) 
+<h2 align="left">🌐 Socials:</h2>
 
-# 📊 GitHub Stats:
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/dani-nur-ramadhan-prayogi-1416aa203/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/dnrp_17/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
+
 ![](https://github-readme-stats.vercel.app/api?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnrpcode&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/dnrpcode/dnrpcode/output/snake.svg" alt="Snake animation" />
+###
 
-### 🔝 Top Contributed Repo
+<h2 align="left">🔝 Top Contributed Repo:</h2>
+
+###
+
 ![](https://github-contributor-stats.vercel.app/api?username=dnrpcode&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+###
+
+<h2 align="left">🎧 Spotify:</h2>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21l6wowkvy2ydeylylschqr7a)
+
+###
+
+<h2 align="left">😂 Random Dev Meme</h2>
+
+###
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
