@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧑🏻‍💻About me:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Binus University<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I am currently a student at Binus University<br>🎯 Goals: make both parents happy<br>🎲 Fun fact: I Jawir (Javanese)</p>
 
 ###
 
@@ -87,19 +87,19 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dnrpcode&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dnrpcode&theme=nord&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ###
-
+<!-- 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
 ###
 
 ![](https://github-contributor-stats.vercel.app/api?username=dnrpcode&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-###
+### -->
 
 <h2 align="left">🎧 Spotify:</h2>
 
