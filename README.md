@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is dani and I'm a Tech Enthusiast, from Indonesia</p>
+<p align="left">My name is Dani and I'm a Tech Enthusiast, from Indonesia</p>
 
 ###
 
@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I am currently a student at Binus University<br>🎯 Goals: make both parents happy<br>🎲 Fun fact: I Jawir (Javanese)</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I am currently a student at Binus University<br>🎯 Goal, Jebreetttt!<br>🎲 Fun fact: I am Jawir (Javanese)</p>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnrpcode&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -81,19 +93,6 @@
 
 ###
 
-###
-
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnrpcode&theme=nord&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnrpcode&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  />
-</div>
-
-###
 <!-- 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
