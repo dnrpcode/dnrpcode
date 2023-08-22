@@ -30,6 +30,12 @@
 
 ###
 
+###
+
+<h4 align="left">📝Languages:</h2>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -46,7 +52,7 @@
 
 ###
 
-<h2 align="left">📦 Library:</h2>
+<h4 align="left">📦 Library:</h2>
 
 ###
 
@@ -62,7 +68,7 @@
 
 ###
 
-<h2 align="left">🛠️ Tools:</h2>
+<h4 align="left">🛠️ Tools:</h2>
 
 ###
 
